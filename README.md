@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### this is 2soup's github page
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/2soup)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2soup)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=2soup&show_icons=true)  
+
 
 <!--
 **2soup/2soup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
