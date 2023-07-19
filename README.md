@@ -9,6 +9,15 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=2soup&show_icons=true)  
 
+### Contact
+<a href="https://2soup.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-plastic&logo=tistory&logoColor=FFFFFF"/></a>
+<a href="_blank" target="_blank"><img src="https://img.shields.io/badge/2soupsoup@gmail.com-EA4335?style=for-the-plastic&logo=Gmail&logoColor=FFFFFF"/></a>
+
+### Education
+
+
+### C
+
 
 <!--
 **2soup/2soup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
