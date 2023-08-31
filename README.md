@@ -16,9 +16,6 @@
 ### Education
 
 
-### C
-
-
 <!--
 **2soup/2soup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
